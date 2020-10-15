@@ -1,0 +1,47 @@
+#row{
+    padding-bottom: 20px
+}
+
+.square{
+    border: 1px solid black;
+    padding: 10px;
+    float: left;
+    text-align: center;
+    vertical-align: center;
+    width: 50px;
+}
+
+#newLine{
+    clear: left
+}
+
+#space{
+    height: 50px;
+    float: left;
+    width: 20px;
+}
+
+#sortButton{
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 1.5em;
+}
+
+table{
+    border-collapse:collapse;
+    width:50%;
+    margin-bottom: 15px
+}
+
+table td{
+    width: 20px;
+}
+
+table td input{
+    text-align: center;
+    font-size: 1.0em;
+    padding: 10px;
+    width: 30px;
+}
